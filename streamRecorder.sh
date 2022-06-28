@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=rtmp://134.60.30.44/live
+url=rtmp://IPofLivestream
 folder=video_data/pre
 mkdir -p $folder
 mkdir -p video_data/config
